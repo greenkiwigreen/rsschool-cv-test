@@ -1,35 +1,35 @@
-Xenia Kirienko
+#Xenia Kirienko
 
-Phone number: +375 29 783 27 47
-e-mail: proff.sha@gmail.com
-GitHub: greenkiwigreen
-Telegram: @kiwi_green
+*__Phone number:__ +375 29 783 27 47
+*__e-mail:__ proff.sha@gmail.com
+*__GitHub:__ greenkiwigreen
+*__Telegram:__ @kiwi_green
                                     
  
-Education:
+##Education:
  
-Name of Institution: Belarusian State University of Informatics and Radioelectronics
-Faculty: Engineering-economical faculty
-Speciality: Informational Systems and Technologies
-Year of graduate: 2011
+__Name of Institution:__ Belarusian State University of Informatics and Radioelectronics
+__Faculty:__ Engineering-economical faculty
+__Speciality:__ Informational Systems and Technologies
+__Year of graduate:__ 2011
  
  
-Work experience:
+##Work experience:
  
-2008 –2009 – Closed Joint Stock Company "Delta Bank" (Minsk)
+*__2008 –2009 – Closed Joint Stock Company "Delta Bank" (Minsk)__
 Credit Agent (interviewing, profiling. Worked with Lotus Notes).
  
-2010-2011 – Private Trade Unitary Enterprise "AllVision"
+*__2010-2011 – Private Trade Unitary Enterprise "AllVision"__
 Programmer (maintaining and filling the site content, updating the availability of products with CMS WinShop Site Administrator  and  CMS 1C-Bitrix).
  
-2011-2012 – "Severnyj Zavod"
+*__2011-2012 – "Severnyj Zavod"__
 Support engineer (receiving and processing applications from subscribers, maintaining and filling sites content, updating modules and page-proofs with CMS Drupal and CMS Wordpress).
  
-2013-2014 – International Charitable Organization UNIHELP
+*__2013-2014 – International Charitable Organization UNIHELP__
 Engineer-programmer, (organization of e-mail newsletters with mass mailing service UniSender, creating layouts for mailing, creating a blog for Meetcafe.org with CMS Wordpress, creating and updating user manual (Meetcafe.org)).
  
  
-Language skills:
+##Language skills:
  
-Russian and Belorussian (native),
-English (intermediate).
+*Russian and Belorussian (native)
+*English (intermediate)
