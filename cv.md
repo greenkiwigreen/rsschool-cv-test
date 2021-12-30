@@ -8,9 +8,9 @@
  
 ## Education:
  
-__Name of Institution:__ Belarusian State University of Informatics and Radioelectronics
-__Faculty:__ Engineering-economical faculty
-__Speciality:__ Informational Systems and Technologies
+__Name of Institution:__ Belarusian State University of Informatics and Radioelectronics  
+__Faculty:__ Engineering-economical faculty  
+__Speciality:__ Informational Systems and Technologies  
 __Year of graduate:__ 2011
  
  
