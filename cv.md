@@ -1,8 +1,8 @@
 # Xenia Kirienko
 
-* __Phone number:__ +375 29 783 27 47
+* __Phone number:__ [+375 29 7832747](tel:+375297832747)
 * __e-mail:__ proff.sha@gmail.com
-* __GitHub:__ greenkiwigreen
+* __GitHub:__ [greenkiwigreen](https://github.com/greenkiwigreen) 
 * __Telegram:__ @kiwi_green
                                     
  
